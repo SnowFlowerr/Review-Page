@@ -421,7 +421,7 @@ export default function ReviewList() {
             return <span><span className='yellow'> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i></span><i class="fa-regular fa-star"></i> <i class="fa-regular fa-star"></i></span>
         }
         if(i===4){
-            return <span><span className='yellow'> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></span><i class="fa-regular fa-star"></i></span>
+            return <span><span className='yellow'> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></span> <i class="fa-regular fa-star"></i></span>
         }
         else if(i===5){
             return <span className='yellow'> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i></span>
